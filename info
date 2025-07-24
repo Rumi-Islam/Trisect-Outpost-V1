@@ -1,0 +1,78 @@
+This is a tile map explorer game.
+You move around and attempt to escape the map.
+
+Menu
+	Character Select and Saves
+	Character abilities, health amounts, tools
+	Pause menu
+		save and quit
+		audio adjustment
+
+Player
+	Player needs to sustain basic survival needs.
+	Player uses inventory to hold items.
+	Puzzle solving, attacks, and sprint mechanics
+
+	Multiplayer, maybe friendly player AI?
+		if not, then AI friends will be in outpost idle.
+		they are there to talk to i guess.
+
+Enemies
+	Enemies wander, chase on sight, and investigate noises.
+	Enemies do jumpscares if they catch player.
+	Some in select areas may cause (non)playable cutscenes.
+	Boss fights
+
+Basic Storyline
+	Years ago, in an abandoned military outpost,
+	there were experiments done on people according
+	to rumors. Your goal is to explore the outpost
+	with your friends to confirm the rumors.
+
+Characters //will add descriptions later
+	Default
+		William
+		Sam
+		Robert
+
+		Charlie (Charlotte)
+		Sophia
+		Mia
+	Unlockable
+		Dr. X
+		Sgt. Dutchman
+		Mr. Sylo o
+
+		Dr. Ziroy
+		Ms. Clara
+		Dr. Starlight
+	Monsters (Unique)
+		Starved
+		Shrieker
+		Huntress
+		Trapper
+		Mindbroken
+		Pierced
+		Powerhunger
+		Walled
+		Furiousity
+		Enticing
+		3rr0r
+		null
+		HIVEMIND/DecayedHeart
+	Monsters (regular/swarms)
+		Infected Soldiers
+		Infected Scientists
+		Infected Carnivorous Plants
+		Decayed Bloodhounds
+
+Map levels
+	Outer Outpost
+	Caves
+	Labs
+	Monster Containment
+		Cells
+	Military Housing
+		Bedroom
+		Kitchen
+		Armory
