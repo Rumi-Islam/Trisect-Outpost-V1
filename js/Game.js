@@ -1,5 +1,5 @@
 import { TileMap } from "./TileMap.js";
-//import { Player } from "./Player.js";
+import { Player } from "./Player.js";
 
 //import { Monster } from "./Monster.js";
 
@@ -11,7 +11,7 @@ const tCtx = tileMapCanvas.getContext("2d");
 //  also contains darkness level of the game
 const entityCanvas = document.getElementById("entityCanvas");
 const eCtx = entityCanvas.getContext("2d");
-//
+
 //canvas for player's health, inventory, and the like
 
 //canvas for menus and settings
@@ -24,7 +24,7 @@ const tileMap = new TileMap(tileSize);
 
 function gameloop()
 {
-    tileMap.draw(tCtx, eCtx);
+	tileMap.draw(tCtx, eCtx);
 }
 
 setInterval(gameloop, 1000/1)
