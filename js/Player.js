@@ -1,6 +1,6 @@
 export class Player
 {
-	constructor()
+	constructor(playerID, playerName, spritesheet, posX, posY, )
 	{
 		
 	}
